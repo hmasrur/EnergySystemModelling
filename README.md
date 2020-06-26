@@ -13,8 +13,6 @@
   <a href="https://github.com/pitmonticone/EnergySystemModelling/graphs/contributors">
     <img alt="Contributors" src="https://img.shields.io/github/contributors/pitmonticone/EnergySystemModelling">
   </a>
-  <img alt="MIT Licence" src="https://img.shields.io/github/license/pitmonticone/EnergySystemModelling">
-  </a>
   <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fpitmonticone%2FEnergySystemModelling"
   </a>
   
